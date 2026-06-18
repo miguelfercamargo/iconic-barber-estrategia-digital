@@ -361,6 +361,13 @@ h1 {
   border-color: rgba(255, 213, 140, 0.3);
 }
 
+.node-searchconsole {
+  top: 120px;
+  left: 46px;
+  border-color: rgba(143, 185, 214, 0.25);
+  font-size: 0.78rem;
+}
+
 .node-maps {
   top: 80px;
   right: 52px;
@@ -1154,6 +1161,11 @@ h1 {
 
   .node-google {
     top: 26px;
+    left: 22px;
+  }
+
+  .node-searchconsole {
+    top: 80px;
     left: 22px;
   }
 
